@@ -1,0 +1,15 @@
+D:\dotnet\simpleCommand\bin\Debug\net6.0\simpleCommand.exe
+D:\dotnet\simpleCommand\bin\Debug\net6.0\simpleCommand.deps.json
+D:\dotnet\simpleCommand\bin\Debug\net6.0\simpleCommand.runtimeconfig.json
+D:\dotnet\simpleCommand\bin\Debug\net6.0\simpleCommand.dll
+D:\dotnet\simpleCommand\bin\Debug\net6.0\simpleCommand.pdb
+D:\dotnet\simpleCommand\obj\Debug\net6.0\simpleCommand.csproj.AssemblyReference.cache
+D:\dotnet\simpleCommand\obj\Debug\net6.0\simpleCommand.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\simpleCommand\obj\Debug\net6.0\simpleCommand.AssemblyInfoInputs.cache
+D:\dotnet\simpleCommand\obj\Debug\net6.0\simpleCommand.AssemblyInfo.cs
+D:\dotnet\simpleCommand\obj\Debug\net6.0\simpleCommand.csproj.CoreCompileInputs.cache
+D:\dotnet\simpleCommand\obj\Debug\net6.0\simpleCommand.dll
+D:\dotnet\simpleCommand\obj\Debug\net6.0\refint\simpleCommand.dll
+D:\dotnet\simpleCommand\obj\Debug\net6.0\simpleCommand.pdb
+D:\dotnet\simpleCommand\obj\Debug\net6.0\simpleCommand.genruntimeconfig.cache
+D:\dotnet\simpleCommand\obj\Debug\net6.0\ref\simpleCommand.dll
